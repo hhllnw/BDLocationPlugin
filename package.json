@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-location",
+  "version": "0.0.1",
+  "description": "获取百度定位经纬度",
+  "cordova": {
+    "id": "cordova-plugin-location",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "huhailin",
+  "license": "ISC"
+}
